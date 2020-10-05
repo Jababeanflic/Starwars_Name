@@ -5,8 +5,8 @@ package Starwars_Name;
  * @author 18025316
  * Scott Kinsmnan
  * 29/09/2020
- *  * Class firstName handels all variable
- *  * needed to creat the Starwars first name
+ * Class firstName handels all variable
+ * needed to creat the Starwars first name
  */
 public class firstName {
 
